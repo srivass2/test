@@ -3,3 +3,5 @@ this is file two in repo.
 We added some more content.
 
 add another marketting section
+
+footer added.
