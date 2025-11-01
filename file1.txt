@@ -1,3 +1,5 @@
 this is file one in repo
 
 added more content to file one.
+
+ligh-mode on
